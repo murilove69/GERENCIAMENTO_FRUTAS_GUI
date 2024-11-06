@@ -32,4 +32,6 @@ Version: 2024-06 (4.32.0)
 
 ## Imagem
 
+![GERENCIAMENTO_FRUTAS_GUI](https://github.com/murilove69/GERENCIAMENTO_FRUTAS_GUI/blob/master/Tela%20Gerenciamento%20Funcionando.png).
+
 
